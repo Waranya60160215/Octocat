@@ -1,4 +1,4 @@
-Hello, this is Beam
+Hello, this is Beam by Mint 60160215
 
 I'm going to show you how I use git // Hello Ben
 
