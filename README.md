@@ -1,4 +1,4 @@
-Hello, this is Octocat
+Hello, this is Beam
 
 I'm going to show you how I use git
 
